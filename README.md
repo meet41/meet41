@@ -1,7 +1,9 @@
 ### Hi there 👋
 
 
+<!---
 **meet41/meet41** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+--->
 
 Here are some ideas to get you started:
 
@@ -10,9 +12,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ... YelpCamp
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<!--- 📫 How to reach me: ... --->
 
 # Github Streak
 ![Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=meet41)
@@ -20,3 +20,7 @@ Here are some ideas to get you started:
 ![Github Trophy](https://github-profile-trophy.vercel.app/?username=meet41)
 # Github Stats
 ![Meet's GitHub stats](https://github-readme-stats.vercel.app/api?username=meet41)
+
+<!--
+Pending language,tools,much more
+-->
