@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 <!--* ✉️  You can contact me at [meetkpatel2004@gmail.com](mailto:meetpatel@gmail.com)-->
 <!-- - 🤔 I’m looking for help with ... -->
 - 💬 Ask me about ...
-- 📫 How to reach me: ... 
+- 📫 How to reach me: ... [MeetPatel04](https://www.twitter.com/PatelMeet04)
 
 <a href="https://www.twitter.com/PatelMeet04" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/PatelMeet04?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
