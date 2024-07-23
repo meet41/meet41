@@ -7,12 +7,12 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ... ReactJS
-- 👯 I’m looking to collaborate on ... YelpCamp
+- 🔭 I’m currently working on ... AI Website
+- 🌱 I’m currently learning ... POSTGRESQL
+- 👯 I’m looking to collaborate on ... Web Projects
 <!--* ✉️  You can contact me at [meetkpatel2004@gmail.com](mailto:meetpatel@gmail.com)-->
 <!-- - 🤔 I’m looking for help with ... -->
-- 💬 Ask me about ...
+- 💬 Ask me about ... Web
 - 📫 How to reach me: ...
 
 <a href="https://www.twitter.com/PatelMeet04" target="_blank" rel="noreferrer"><img
