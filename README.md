@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 
 ## About Me
 
-- 🔭 I’m currently working on an **Grocery**
+- 🔭 I’m currently working on an **Text to Link Shortner**
 - 🌱 I’m currently learning **MongoDB**
 - 👯 I’m looking to collaborate on **Web Projects**
 - 💬 Ask me about **Web Development**
