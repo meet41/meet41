@@ -87,8 +87,6 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=meet41&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub Streak Stats" />
 </a>
 
-<a href="http://www.github.com/meet41">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=meet41&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" />
-</a>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=meet41&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=meet41&bg_color=000000&color=fafafa&line=0033ff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
