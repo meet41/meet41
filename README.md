@@ -8,7 +8,6 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 - 🌱 I’m currently learning **MongoDB**
 - 👯 I’m looking to collaborate on **Web Projects**
 - 💬 Ask me about **Web Development**
-- 📫 How to reach me: [meetkpatel2004@gmail.com](mailto:meetkpatel2004@gmail.com)
 
 ## Connect with Me
 
